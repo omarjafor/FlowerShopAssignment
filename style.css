@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* Header Banner Section Start Here  */
+header{
+    background-color: #E554731A;
+}
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 230px;
+    padding-top: 50px;
+}
+.banner-content{
+    width: 50%;
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 900;
+}
+.banner-description{
+    color: rgba(8, 8, 8, 0.6);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 32px 0px;
+}
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+}
