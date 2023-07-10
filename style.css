@@ -13,7 +13,7 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 0px 230px;
+    margin: 0px 240px;
     padding-top: 50px;
 }
 .banner-content{
@@ -39,4 +39,10 @@ header{
     border-radius: 8px;
     background: #E55473;
     border: none;
+}
+/* Featured Flower Section Start Here */
+.flower-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
