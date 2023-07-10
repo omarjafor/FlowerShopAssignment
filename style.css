@@ -105,3 +105,22 @@ header{
     line-height: 35px;
 }
 /* Support Section Start Here  */
+.support-section{
+    height: 320px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 128px 240px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+.support-item{
+    text-align: center;
+}
+.item-title{
+    margin-top: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35px;
+    color: rgba(39, 39, 39, 0.80);
+}
