@@ -61,6 +61,36 @@ header{
     background: #E55473;
     border: none;
 }
+/* New Arrival section start here */
+.newarrival-text{
+    margin-top: 100px;
+    text-align: center;
+}
+.newarrival-title{
+    color: #272727;
+    font-size: 50px;
+    font-weight: 900;
+    padding: 20px;
+}
+.select-option{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    color: rgba(14, 13, 13, 0.685);
+    font-weight: 400;
+    line-height: 30px;
+}
+.newarrival-img{
+    text-align: center;
+    margin: 48px 240px;
+}
+.newarrival-img img{
+    padding: 0px 5px;
+}
 /* Featured Flower Section Start Here */
 .featured-text{
     margin-top: 100px;
