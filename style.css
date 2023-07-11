@@ -177,3 +177,44 @@ header{
 .insta-img img{
     padding: 0px 5px;
 }
+/* Subscribe Section Start Here  */
+.subscribe{
+    height: 443px;
+    margin: 128px 240px;
+    border-radius: 8px;
+    background: url('asset/Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subs-content{
+    text-align: center;
+}
+.sub-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+.subs-content input{
+    padding: 22px 513px 22px 22px;
+    border-radius: 8px;
+    border: none;
+}
+.subs-content input::placeholder {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    color: rgba(19, 18, 18, 0.678);
+}
+.subscribe-btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 30px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    margin-left: 16px;
+    margin-top: 32px;
+}
