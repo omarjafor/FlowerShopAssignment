@@ -9,6 +9,27 @@ body{
 header{
     background-color: #E554731A;
 }
+/* nav-bar section start herer  */
+.menu-bar{
+    display: flex;
+    justify-content: space-around;
+    color: #272727;
+    padding: 15px;
+}
+.logo{
+    width: 120px;
+}
+.menu{
+    display: flex;
+    list-style: none;
+}
+.item{
+    margin-right: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+/* Banner Section Start here  */
 .banner{
     display: flex;
     justify-content: space-around;
