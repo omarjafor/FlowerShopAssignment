@@ -218,3 +218,31 @@ header{
     margin-left: 16px;
     margin-top: 32px;
 }
+/* Footer Section Start Here */
+footer{
+    height: 449px;
+    background: #111010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-box{
+    text-align: center;
+}
+.footer-title{
+    color: white;
+    font-size: 48px;
+    font-weight: 900;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+small{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.40);
+}
