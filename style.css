@@ -169,3 +169,11 @@ header{
     border: none;
     margin-top: 32px;
 }
+/* instagram section start here  */
+.insta-img{
+    text-align: center;
+    margin: 48px 240px;
+}
+.insta-img img{
+    padding: 0px 5px;
+}
